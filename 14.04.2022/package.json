@@ -1,0 +1,14 @@
+{
+  "name": "azurelab3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mssql": "^5.0.3",
+    "mssql-connection-string": "^0.3.2"
+  },
+  "devDependencies": {}
+}
